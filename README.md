@@ -1,2 +1,3 @@
 # copy_all
-this is html.
+
+> 模仿品将持续更新。
